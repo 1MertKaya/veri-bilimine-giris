@@ -1,1 +1,1 @@
-# veri-bilimine-giris
+# www.patika.dev Veri Bilimine Giriş Projesi
